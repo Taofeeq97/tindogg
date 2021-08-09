@@ -1,0 +1,177 @@
+
+h1{
+    font-family:"Montserrat";
+    font-size:3.5rem;
+    line-height:1.5;
+}
+h2{
+line-height:3.0rem;
+padding:0 5%;
+}
+body, h3{
+font-family:"Montserrat";
+}
+p{
+color:#8f8f8f;
+}
+
+#title{
+background-color:#ff4c68;
+color:#fff;
+}
+#features{
+padding: 7% 18%;
+font-family:"Roboto";
+background-color:#fff;
+position:relative;
+}
+#testimonials{
+    text-align:center;
+    background-color:#ef8172;
+    color:#fff;
+}
+#press{
+background-color:#ef8172;
+text-align:center;
+padding-bottom:5%;
+}
+.container-fluid{
+padding: 3% 10%;
+}
+#pricing{
+padding:100px;
+text-align:center;
+font-family:"Roboto";
+}
+#cta{
+background-color:#ff4c68;
+text-align: center;
+padding:7% 15%;
+color:#fff;
+}
+
+#footer{
+padding:7% 15%;
+text-align: center;
+font-family:"Roboto";
+}
+
+.container-fluid{
+padding:3% 15% 2%;
+}
+
+
+.navbar{
+padding: 0 0 4.5rem 0;
+}
+.navbar-brand{
+font-family:"Ubuntu";
+font-size:2.0rem;
+
+}
+
+.nav-item{
+padding:0 18px;
+
+}
+#navbarSupportedContent{
+padding:0 0 0 500px;
+}
+
+.nav-link{
+font-family:"Roboto";
+font-size:0.7rem;
+}
+
+
+
+.download-buttons{
+    margin:10% 3% 5% 0;
+}
+
+.title-image {
+    width:30% ;
+    transform: rotate(25deg);
+    padding:0 0 0 5rem;
+    position:absolute;
+}
+
+@media (max-width:985px) {
+    .title-image{
+        position:static;
+        width:60%;
+        transform:rotate(0deg);
+        padding:0 3% 0;
+    }
+    #title{
+    text-align:center;
+    }
+    .nav-item{
+    padding:0 10% 0;
+    }
+}
+
+
+
+
+
+
+.feature-pack{
+text-align: center;
+padding:3%;
+}
+
+
+.icon{
+color:#ef8172;
+margin-bottom:1rem;
+}
+.icon:hover{
+color:#ff4c68;
+}
+
+
+
+
+
+
+.testimonial-image{
+width:10%;
+border-radius:100%;
+margin:20px;
+}
+em{
+font-family:"Roboto";
+}
+
+
+
+
+.press-logo{
+width:15%;
+margin: 20px 20px 50px;
+}
+
+.carousel-item{
+padding:7% 18%;
+}
+
+
+.pricing-column{
+padding:3% 2%;
+}
+.card-text{
+font-size:1rem;
+}
+
+
+}
+.cta-h{
+font-size:3.0rem;
+line-height:1.5
+}
+
+
+.social-icon{
+margin:20px 10px;
+}
